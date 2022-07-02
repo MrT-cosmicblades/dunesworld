@@ -4,7 +4,7 @@ import { UALContext } from "ual-reactjs-renderer";
 import { validator } from './AccountValidator';
 import { Container } from './Container'
 import { Menu } from './Menu';
-import { WAXOBJECT } from './WaxActions';
+import { WAXOBJECT } from './Interface';
 
 export const CTA = () => {
 
